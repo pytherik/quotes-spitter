@@ -98,6 +98,7 @@ button:active {
   border: 32px solid #fff;
   border-color: #fff transparent #fff transparent;
   animation: lds-hourglass 1.2s infinite;
+
 }
 @keyframes lds-hourglass {
   0% {

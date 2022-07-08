@@ -44,5 +44,4 @@ buttonTwitter.addEventListener("click", () => {
 buttonNew.addEventListener("click", () => {
     newQuote();
 });
-
 newQuote();
